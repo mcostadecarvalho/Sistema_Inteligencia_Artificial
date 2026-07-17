@@ -7,9 +7,9 @@
 
 ## **Grupo 3:**
 ### Alumnos:
-Santiago Gruss, 
+Santiago Gruss 
 
-Rosario Tombesi, 
+Rosario Tombesi 
 
 Mateus Alexsandro Costa de Carvalho
 
@@ -21,6 +21,6 @@ Modelos Lineales y Clasificación: se han implementado modelos de regresión lin
 
 Aprendizaje No Supervisado y Ensambles: se han aplicdo algoritmos de clustering (K-means) y técnicas de reducción de dimensionalidad (PCA) para la simplificación de datos preservando la varianza. Además, se desarrollan modelos de árboles de decisión y ensambles mediante Random Forest y técnicas de Bagging.
 
-Redes Neuronales y Deep Learning: Diseño e implementación de una CNN (Red Neuronal Convolucional) optimizada para la clasificación de imágenes, utilizando capas de convolución, pooling, padding y regularización avanzada como Dropout.
+Redes Neuronales y Deep Learning: diseño e implementación de una CNN (Red Neuronal Convolucional) optimizada para la clasificación de imágenes, utilizando capas de convolución, pooling, padding, regularización avanzada como Dropout y data augmentation.
 
 Preparación de Datos: Todos los proyectos incluyen un flujo de preprocesamiento que abarca limpieza de datos, ingeniería de atributos, estandarización y codificación de variables (One-hot encoding).
